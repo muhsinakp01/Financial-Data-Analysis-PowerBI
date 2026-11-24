@@ -20,6 +20,13 @@ This project focuses on structuring and transforming balance sheet data using Mi
 - Learning data transformation techniques
 - Working with financial datasets
 - Improving practical Power BI skills
+- ## Project Screenshots
+
+### Power Query - Structured Financial Data
+![Power Query Screenshot 1](IMG-20261123-WA0034.jpg)
+
+### Balance Sheet Data Transformation
+![Power Query Screenshot 2](IMG-20261123-WA0035.jpg)
 
 ## Author
 Muhsina K.P
